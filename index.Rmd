@@ -22,9 +22,9 @@ library(prettydoc)
 
 The repository contains all the material of the RETREAT 2024 of the [GRBIO](https://grbio.upc.edu/en) research group.
 
--   You can find the program: [HERE](Programa%20IX%20GRBIO%20RETREAT%202025.pdf)
+-   You can find the program: [HERE](Programa%20X%20GRBIO%20RETREAT%202025.pdf)
 
--   A direct link to the repository web page: [HERE](https://github.com/GRBio/RETREAT2025)
+-   A direct link to the repository web page: [HERE](https://github.com/GotalArnau/RETREAT2025)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,5 @@ Sessió 5: **Activitat lúdica**
 ------------------------------------------------------------------------
 
 Podreu trobar les imatges de la jornada a la nostra galeria de fotos a la [web](https://grbio.upc.edu/en/test/2025/x-retreat-2025).
+
 
