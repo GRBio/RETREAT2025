@@ -1,9 +1,5 @@
 # Retreat GRBIO 2025
 
-------------------------------------------------------------------------
-
-## Contents
-
 The repository contains all the material of the RETREAT 2024 of the [GRBIO](https://grbio.upc.edu/en) research group.
 
 -   You can find the program: [HERE](Programa%20IX%20GRBIO%20RETREAT%202025.pdf)
