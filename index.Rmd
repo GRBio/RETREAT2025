@@ -32,11 +32,11 @@ The folders with the different presentations of the sessions can be found here:
 
 Sessió 1: **Kick-off**
 
--   [Opertura i Presentació del Retreat (Lupe Gómez)](01_Kick_off/01_RETREAT2025_Presentació_GuadalupeG.pdf)
--   [Twitter, Newsletter i XXSS (Daniel Fernández)](01_Kick_off/02_RETREAT2025_XXSS_DanielF.pdf)
--   [Contingut Web i Servidors (Jordi Cortés)](01_Kick_off/03_RETREAT2025_Web_Content_JordiC.pdf)
--   [GRBIO Divulga (Conxita Arenas)](01_Kick_off/04_RETREAT2025_GRBIO_Divulga_ContxitaA.pdf)
--   [Seminaris (Ferran Reverter)](01_Kick_off/05_RETREAT2025_Seminars_FerranR.pdf)
+-   [Opertura i Presentació del Retreat (Lupe Gómez)](01_kick_off/01_RETREAT2025_Presentació_GuadalupeG.pdf)
+-   [Twitter, Newsletter i XXSS (Daniel Fernández)](01_kick_off/02_RETREAT2025_XXSS_DanielF.pdf)
+-   [Contingut Web i Servidors (Jordi Cortés)](01_kick_off/03_RETREAT2025_Web_Content_JordiC.pdf)
+-   [GRBIO Divulga (Conxita Arenas)](01_kick_off/04_RETREAT2025_GRBIO_Divulga_ContxitaA.pdf)
+-   [Seminaris (Ferran Reverter)](01_kick_off/05_RETREAT2025_Seminars_FerranR.pdf)
 
 Sessió 2: **Doctorandes**
 
@@ -62,3 +62,4 @@ Sessió 5: **Activitat lúdica**
 ------------------------------------------------------------------------
 
 Podreu trobar les imatges de la jornada a la nostra galeria de fotos a la [web](https://grbio.upc.edu/en/test/2025/x-retreat-2025).
+
